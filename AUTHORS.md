@@ -18,3 +18,7 @@
 - AKG/WMS 4500 7.eqp - `Created using http://rfcoordinationnyc.com/ spreadsheet on 2019-12-26, checked all groups`
 - Lectrosonics/Duet M2.eqp
 - Sony/UWP-D.eqp
+
+# Ashley M
+- Sennheiser/EW 300 G4 Bw.eqp
+
